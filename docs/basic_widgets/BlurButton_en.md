@@ -2,7 +2,7 @@
 A custom button component with Gaussian blur background, supporting local images, third-party Image objects, custom layouts, and more flexible usage.
 
 ## Local Image Blur Button Effect
-![Blur Button with Local Image](../../../example_resources/basic_widgets/blur_button.png)
+![Blur Button with Local Image](/example_resources/basic_widgets/blur_button.png)
 
 ## Features
 1. Customizable Gaussian blur level, border radius, and background color;
