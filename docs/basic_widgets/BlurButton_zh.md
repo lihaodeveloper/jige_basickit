@@ -2,7 +2,7 @@
 一款带高斯模糊背景的自定义按钮组件，支持本地图片、第三方Image对象、自定义布局等灵活用法。
 
 ## 本地图片模糊按钮效果
-![带图片模糊按钮](../../../../example_resources/basic_widgets/blur_button.png)
+![带图片模糊按钮](/example_resources/basic_widgets/blur_button.png)
 
 ## 功能特点
 1. 可自定义高斯模糊程度、圆角、背景色；
