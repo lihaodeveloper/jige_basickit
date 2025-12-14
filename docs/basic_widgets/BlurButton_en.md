@@ -19,7 +19,7 @@ A custom button component with Gaussian blur background, supporting local images
 | color            | Color       | No       | Color.fromRGBO(255,255,255,0.3)  | Button background color (recommend translucent) |
 | width            | double      | No       | 80.0                             | Button width                                     |
 | height           | double      | No       | 40.0                             | Button height                                    |
-| assetImagePath   | String?     | No       | null                             | [Compatible] Local image path (deprecated)       |
+| assetImagePath   | String?     | No       | null                             | Local image path     |
 | imageWidth       | double?     | No       | 30.0                             | Only valid for assetImagePath, image width       |
 | imageHeight      | double?     | No       | 30.0                             | Only valid for assetImagePath, image height      |
 | imageFit         | BoxFit      | No       | BoxFit.contain                   | Only valid for assetImagePath, image fit mode    |

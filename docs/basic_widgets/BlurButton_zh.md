@@ -19,7 +19,7 @@
 | color            | Color       | 否   | Color.fromRGBO(255,255,255,0.3) | 按钮背景色（建议使用半透明色）         |
 | width            | double      | 否   | 80.0                            | 按钮宽度                               |
 | height           | double      | 否   | 40.0                            | 按钮高度                               |
-| assetImagePath   | String?     | 否   | null                            | 【兼容用法】本地图片路径（已标注废弃） |
+| assetImagePath   | String?     | 否   | null                            | 本地图片路径 |
 | imageWidth       | double?     | 否   | 30.0                            | 仅对assetImagePath生效，图片宽度       |
 | imageHeight      | double?     | 否   | 30.0                            | 仅对assetImagePath生效，图片高度       |
 | imageFit         | BoxFit      | 否   | BoxFit.contain                  | 仅对assetImagePath生效，图片适配模式   |
