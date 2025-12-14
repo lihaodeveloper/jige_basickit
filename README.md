@@ -10,5 +10,6 @@ flutter pub add jige_basickit
 | 组件名       | 中文文档                          | 英文文档                          |
 |--------------|-----------------------------------|-----------------------------------|
 | BlurButton   | [查看详情](docs/basic_widgets/BlurButton_zh.md) | [View Details](docs/basic_widgets/BlurButton_en.md) |
+
 ![带图片模糊按钮](/example_resources/basic_widgets/blur_button.png)
 
